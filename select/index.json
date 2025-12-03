@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "マリーゴールド",
+  "base_artist": "aimyon",
+  "createdAt": "2025-12-03T04:45:29.653880Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "マリーゴールド - Instrumental",
+      "artist": "Aimyon",
+      "has_synced": false,
+      "path": "select/01_マリーゴールド_-_Instrumental_Aimyon.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "マリーゴールド",
+      "artist": "Aimyon",
+      "has_synced": false,
+      "path": "select/02_マリーゴールド_Aimyon.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "マリーゴールド - Marigold",
+      "artist": "aimyon",
+      "has_synced": true,
+      "path": "select/03_マリーゴールド_-_Marigold_aimyon.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "マリーゴールド",
+      "artist": "Aimyon",
+      "has_synced": true,
+      "path": "select/04_マリーゴールド_Aimyon.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "マリーゴールド - Marigold",
+      "artist": "aimyon",
+      "has_synced": true,
+      "path": "select/05_マリーゴールド_-_Marigold_aimyon.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "マリーゴールド",
+      "artist": "orange pekoe",
+      "has_synced": false,
+      "path": "select/06_マリーゴールド_orange_pekoe.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "マリーゴールド - Marigold",
+      "artist": "aimyon",
+      "has_synced": false,
+      "path": "select/07_マリーゴールド_-_Marigold_aimyon.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "マリーゴールド - Marigold",
+      "artist": "Video • Aimyon",
+      "has_synced": true,
+      "path": "select/08_マリーゴールド_-_Marigold_Video_•_Aimyon.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "マリーゴールド (Live in 阪神甲子園球場, 2022.11.05)",
+      "artist": "あいみょん",
+      "has_synced": true,
+      "path": "select/09_マリーゴールド_(Live_in_阪神甲子園球場,_2022.11.05)_あいみょん.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "マリーゴールド (Live in 阪神甲子園球場, 2022.11.05)",
+      "artist": "Aimyon",
+      "has_synced": true,
+      "path": "select/10_マリーゴールド_(Live_in_阪神甲子園球場,_2022.11.05)_Aimyon.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "マリーゴールド・ガーデン (Albeniz)",
+      "artist": "ALI PROJECT",
+      "has_synced": false,
+      "path": "select/11_マリーゴールド・ガーデン_(Albeniz)_ALI_PROJECT.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マリーゴールド",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_01_マリーゴールド_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "マリーゴールド",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_02_マリーゴールド_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "マリーゴールド",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_03_マリーゴールド_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "マリーゴールド",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_04_マリーゴールド_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "マリーゴールド",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_05_マリーゴールド_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "マリーゴールド",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_06_マリーゴールド_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "マリーゴールド",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_07_マリーゴールド_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "マリーゴールド",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_08_マリーゴールド_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "マリーゴールド",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_09_マリーゴールド_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "マリーゴールド",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_10_マリーゴールド_あいみょん.txt"
+    }
+  ]
+}
